@@ -1,5 +1,5 @@
-# SuperBall
-SuperBall is a Javascript Game in which we have to reach to the end being a ball facing hurdles.
+# SuperBall007
+SuperBall007 is a Javascript Game in which we have to reach to the end being a ball facing hurdles.
 There are different hurdles like deadpool,vacuum,trampoline,etc.
 Hope you like it!
 <p>
